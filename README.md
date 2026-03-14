@@ -11,6 +11,7 @@ Schedule and Material Links: https://drive.google.com/file/d/1Ne1oJMmDG83TUb-KsK
 **Introduction to Short Course**
 * William Ratcliff, NIST
 * 8:15am - 8:30am
+* [Slides](https://drive.google.com/file/d/1Ne1oJMmDG83TUb-KsKV_Esql1MWB2JBd/view?usp=sharing)
 
 **Introduction to Data Science**
 * Julie Butler, University of Mount Union (Virtual)
