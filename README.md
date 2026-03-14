@@ -33,6 +33,7 @@ Schedule and Material Links: https://drive.google.com/file/d/1Ne1oJMmDG83TUb-KsK
 
 **Coffee Break**
 * 3:00pm - 3:30pm
+
 **Unsupervised Machine Learning**
 * Trevor Rhone, Rensselaer Polytechnic Institute
 * 3:30pm - 5:00pm
